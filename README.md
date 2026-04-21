@@ -1,5 +1,7 @@
-This repository contains a reproducible Python implementation accompanying the paper:
+# Stabilization of reaction-diffusion systems via DeepONet
 
-“Operator Learning for Prescribed-Time Stabilization of Reaction-Diffusion Systems.”
+This repository contains a reproducible Python implementation accompanying the paper [K. Lyu, U. Biccari, J. Wang - Operator learning for prescribed-time stabilization of reaction-diffusion systems](https://arxiv.org/abs/2602.23157)
 
-The code implements the neural-operator-based framework proposed in the paper for approximating time-varying backstepping kernels arising in prescribed-time stabilization of reaction–diffusion PDE systems.
+<img src="https://github.com/DCN-FAU-AvH/PTS-NO/blob/main/solution.png" width="70%" height="70%" >
+
+The code implements a neural-operator-based framework for approximating time-varying backstepping kernels arising in prescribed-time stabilization of reaction–diffusion PDE systems.
